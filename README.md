@@ -12,7 +12,7 @@ Sunrise Development is dedicated to providing high-quality scripts and resources
 
 ---
 
-### 👨‍💻 Projects:
+### 👨‍💻 Scripts:
 Explore all of our paid scripts at [Sunrise Dev FiveM Tebex](https://sunrise-development.tebex.io)
 
 ---
