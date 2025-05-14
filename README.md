@@ -12,14 +12,14 @@ Riverside Development is dedicated to providing quality scripts and resources fo
 ---
 
 ### 👨‍💻 Scripts:
-Explore all of our scripts on our [ttore](https://riversidedevelopment.tebex.io)
+Explore all of our scripts on our [store](https://riversidedevelopment.tebex.io)
 
 ---
 
 ### 📫 Get In Touch:
 If you have any queries, feel free to reach out:
-- **Support Email:** sunrisedevelopmentfivem@gmail.com
-- **Support Discord:** https://discord.gg/2dnaUPujXr
+- **Support Email:** rsrp.management.info@gmail.com
+- **Support Discord:** https://discord.gg/RxKPUaXuvS
 
 ---
 
