@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, Welcome to Sunrise Development FiveM</h1>
-<h3 align="center">Your Go-To Hub for Premium Standalone FiveM Scripts and Resources</h3>
+<h1 align="center">Hi 👋, Welcome to Riverside Development FiveM</h1>
 
 <p align="center">
-  <img align="center" alt="coding" width="400" src="https://media.discordapp.net/attachments/1324239500590972997/1335462440934183063/standard.gif?ex=67a0ea91&is=679f9911&hm=d51ee27b9c3470b9e0c2780fe518c012e0310f86213ab01f2fe4edc2b9635c83&=">
+  <img align="center" alt="coding" width="400" src="https://media.discordapp.net/attachments/1334133142671458405/1372064695217033339/RSD.png?ex=68256a53&is=682418d3&hm=5b689a1e4fb5ed8ff5e71a818ef119132240246da963eeef0351d7e0320c7fcd&=&format=webp&quality=lossless=">
 </p>
 
 ---
 
-### 🌟 About SunriseDev FiveM:
-Sunrise Development is dedicated to providing high-quality scripts and resources for the FiveM community. Whether you're looking for custom gameplay mechanics, advanced role-play features, or server optimizations, you'll find a range of premium scripts tailored for FiveM servers. We aim to deliver top-tier content to enhance your server's performance and user experience.
+### 🌟 About Us:
+Riverside Development is dedicated to providing quality scripts and resources for the FiveM community. We attempt to deliver quality content to enhance your server's performance and user experience.
 
 ---
 
 ### 👨‍💻 Scripts:
-Explore all of our paid scripts at [Sunrise Dev FiveM Tebex](https://sunrise-development.tebex.io)
+Explore all of our scripts on our [ttore](https://riversidedevelopment.tebex.io)
 
 ---
 
