@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to Riverside Development FiveM</h1>
 
 <p align="center">
-  <img align="center" alt="coding" width="400" src="https://media.discordapp.net/attachments/1334133142671458405/1372064695217033339/RSD.png?ex=68256a53&is=682418d3&hm=5b689a1e4fb5ed8ff5e71a818ef119132240246da963eeef0351d7e0320c7fcd&=">
+  <img align="center" alt="coding" width="400" src="https://r2.fivemanage.com/g3y8gXi63vbHznD7rF5In/RSD.png">
 </p>
 
 ---
